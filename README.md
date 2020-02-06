@@ -2,4 +2,4 @@
 
 #react-social-auth
 
-Deployment link: react-social-auth.netlify.com
+Deployment link: https://react-social-auth.netlify.com
